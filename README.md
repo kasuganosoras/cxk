@@ -23,6 +23,8 @@ php cxk.php
 ```
 即可开始观看蔡徐坤打篮球。
 
+欢迎关注我的另一个项目：https://github.com/kasuganosoras/cxk-ball
+
 ## 注意事项
 
 1. 请勿在浏览器中打开 `cxk.php`，否则可能会造成浏览器卡死等问题
