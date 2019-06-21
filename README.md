@@ -35,9 +35,9 @@ php cxk.php
 
 本项目使用 GPL v3.0 协议开源
 
-## @weathon添加以下内容
-cxk.py
-迁移到Python2的版本，注意：使用前请缩放控制台，可以自行调整第一行的时间
-cxk3.py
-迁移到Python3的版本，注意：使用前请缩放控制台
-@weathon
+## @weathon添加以下内容 
+### cxk.py 
+迁移到Python2的版本，注意：使用前请缩放控制台，可以自行调整第一行的时间 
+### cxk3.py 
+迁移到Python3的版本，注意：使用前请缩放控制台 
+@weathon 
